@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trey @h0rak
-- 👀 I’m interested in taking baths. 
+- 👀 I’m interested in all things Java and taking baths. 
 - 🌱 I’m currently learning Java by building an Inventory Management System application and a Scheduler that connects to a MySQL database.
 - 📫 How to reach me https://www.linkedin.com/in/treyhorak/ or https://twitter.com/treyhorak
 
