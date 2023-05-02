@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trey @h0rak
 - 👀 I’m interested in Java, C++, SQL, and more! 
-- 🌱 I’m currently learning Java by building an Inventory Management System application and a Scheduler that connects to a MySQL database.
-- 📫 How to reach me https://www.linkedin.com/in/treyhorak/ or https://twitter.com/treyhorak
+- 🎓 I’ve recently graduated with a Bachelor's in Science, Software Development from Western Governors University!
+- 📫 How to reach me https://www.linkedin.com/in/treyhorak/
 
 <!---
 h0rak/h0rak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
